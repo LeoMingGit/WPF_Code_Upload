@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF_Styles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="600">
+    <StackPanel>
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+    </Grid>
+    <TextBlock Text="Style Test" Grid.Row="0" HorizontalAlignment="Center" >
+        <TextBlock.Style>
+            <Style>
+                <Setter Property="TextBlock.FontSize" Value="35"/>
+            </Style>
+        </TextBlock.Style>
+    </TextBlock>
+        
+        <StackPanel Margin="10" Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter  Property="FontSize" Value="24"/>
+                    <Setter  Property="Foreground" Value="Gray"/>
+                </Style>
+            </StackPanel.Resources>
+            <TextBlock>Header 1</TextBlock>
+            <TextBlock>Header 2</TextBlock>
+            <TextBlock Foreground="Blue">Header 3</TextBlock>
+        </StackPanel>
+    </StackPanel>
+</Window>

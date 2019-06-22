@@ -1,0 +1,13 @@
+D:\Learning\WPF\WPF_Styles\WPF_Styles\bin\Debug\WPF_Styles.exe.config
+D:\Learning\WPF\WPF_Styles\WPF_Styles\bin\Debug\WPF_Styles.exe
+D:\Learning\WPF\WPF_Styles\WPF_Styles\bin\Debug\WPF_Styles.pdb
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.csprojResolveAssemblyReference.cache
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\MainWindow.baml
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\App.g.cs
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles_MarkupCompile.cache
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.g.resources
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.Properties.Resources.resources
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.csproj.GenerateResource.Cache
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.exe
+D:\Learning\WPF\WPF_Styles\WPF_Styles\obj\Debug\WPF_Styles.pdb
