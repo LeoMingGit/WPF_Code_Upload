@@ -1,0 +1,13 @@
+D:\Learning\WPF\TheBasics\TheBasics\bin\Debug\TheBasics.exe.config
+D:\Learning\WPF\TheBasics\TheBasics\bin\Debug\TheBasics.exe
+D:\Learning\WPF\TheBasics\TheBasics\bin\Debug\TheBasics.pdb
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.csprojResolveAssemblyReference.cache
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\MainWindow.baml
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\App.g.cs
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics_MarkupCompile.cache
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.g.resources
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.Properties.Resources.resources
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.csproj.GenerateResource.Cache
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.exe
+D:\Learning\WPF\TheBasics\TheBasics\obj\Debug\TheBasics.pdb
