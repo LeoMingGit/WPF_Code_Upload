@@ -1,0 +1,16 @@
+D:\Learning\WPF\WpfUserControl\WpfUserControl\bin\Debug\WpfUserControl.exe.config
+D:\Learning\WPF\WpfUserControl\WpfUserControl\bin\Debug\WpfUserControl.exe
+D:\Learning\WPF\WpfUserControl\WpfUserControl\bin\Debug\WpfUserControl.pdb
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\MainWindow.baml
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\UserControl1.baml
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\UserControl1.g.cs
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\App.g.cs
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.cache
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl.g.resources
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl.Properties.Resources.resources
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl.csproj.GenerateResource.Cache
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl.exe
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl.pdb
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Learning\WPF\WpfUserControl\WpfUserControl\obj\Debug\WpfUserControl_MarkupCompile.lref
