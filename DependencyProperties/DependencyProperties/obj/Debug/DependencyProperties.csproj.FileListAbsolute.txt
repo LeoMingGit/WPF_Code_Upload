@@ -1,0 +1,14 @@
+D:\Learning\WPF\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe.config
+D:\Learning\WPF\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe
+D:\Learning\WPF\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.pdb
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csprojResolveAssemblyReference.cache
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\App.g.cs
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.cache
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.lref
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.baml
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.g.resources
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.Properties.Resources.resources
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csproj.GenerateResource.Cache
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.exe
+D:\Learning\WPF\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.pdb
