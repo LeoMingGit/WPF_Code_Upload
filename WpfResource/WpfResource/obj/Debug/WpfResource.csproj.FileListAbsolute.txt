@@ -1,0 +1,13 @@
+D:\Learning\WPF\WpfResource\WpfResource\bin\Debug\WpfResource.exe.config
+D:\Learning\WPF\WpfResource\WpfResource\bin\Debug\WpfResource.exe
+D:\Learning\WPF\WpfResource\WpfResource\bin\Debug\WpfResource.pdb
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.csprojResolveAssemblyReference.cache
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\MainWindow.baml
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\App.g.cs
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource_MarkupCompile.cache
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.g.resources
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.Properties.Resources.resources
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.csproj.GenerateResource.Cache
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.exe
+D:\Learning\WPF\WpfResource\WpfResource\obj\Debug\WpfResource.pdb
