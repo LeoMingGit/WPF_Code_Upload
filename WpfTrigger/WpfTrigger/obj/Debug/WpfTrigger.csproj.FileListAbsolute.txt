@@ -1,0 +1,13 @@
+D:\Learning\WPF\WpfTrigger\WpfTrigger\bin\Debug\WpfTrigger.exe.config
+D:\Learning\WPF\WpfTrigger\WpfTrigger\bin\Debug\WpfTrigger.exe
+D:\Learning\WPF\WpfTrigger\WpfTrigger\bin\Debug\WpfTrigger.pdb
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.csprojResolveAssemblyReference.cache
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\MainWindow.baml
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\MainWindow.g.cs
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\App.g.cs
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger_MarkupCompile.cache
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.g.resources
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.Properties.Resources.resources
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.csproj.GenerateResource.Cache
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.exe
+D:\Learning\WPF\WpfTrigger\WpfTrigger\obj\Debug\WpfTrigger.pdb
