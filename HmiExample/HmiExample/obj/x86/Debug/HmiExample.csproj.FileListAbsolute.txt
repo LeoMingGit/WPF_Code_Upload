@@ -1,0 +1,83 @@
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\MainWindow.baml
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.baml
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.baml
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\MainWindow.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\App.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.cache
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.lref
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\bin\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\bin\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.baml
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample.g.resources
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample.Properties.Resources.resources
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\HmiExample\HmiExample\obj\x86\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\bin\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\bin\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\MainWindow.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\MainWindow.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\App.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.cache
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.lref
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.g.resources
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.Properties.Resources.resources
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\Owner\Desktop\New Folder (3)\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\bin\Debug\HmiExample.exe
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\bin\Debug\HmiExample.pdb
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\MainWindow.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\MainWindow.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\App.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.cache
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.lref
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.baml
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.g.resources
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\HmiExample.Properties.Resources.resources
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\Owner\Desktop\New Folder (2)\HmiExample\HmiExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.exe
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.pdb
+D:\download\HmiExample\HmiExample\bin\Debug\HmiExample.exe
+D:\download\HmiExample\HmiExample\bin\Debug\HmiExample.pdb
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.csprojResolveAssemblyReference.cache
+D:\download\HmiExample\HmiExample\obj\x86\Debug\MainWindow.baml
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.baml
+D:\download\HmiExample\HmiExample\obj\x86\Debug\MainWindow.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Menu.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\App.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.cache
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample_MarkupCompile.lref
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Page1.baml
+D:\download\HmiExample\HmiExample\obj\x86\Debug\Pages\Page2.baml
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.g.resources
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.Properties.Resources.resources
+D:\download\HmiExample\HmiExample\obj\x86\Debug\HmiExample.csproj.GenerateResource.Cache
