@@ -1,0 +1,20 @@
+﻿<Window x:Class="DataGridBind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="620">
+    <Grid Height="350" Width="625" Background="#FFD1F9EE" >
+        <TextBlock Height="32" HorizontalAlignment="Left" Margin="16,15,0,0" Name="textBlockHeading" Text="Customers" VerticalAlignment="Top" Width="310"  FontSize="20" FontStretch="Normal"/>
+        <Grid HorizontalAlignment="Left" Height="310" VerticalAlignment="Top" Width="625">
+            <DataGrid AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="14,55,0,46" Name="dataGridCustomers" Width="575" ItemsSource="{Binding Path=LoadDataBinding}" CanUserResizeRows="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Path=CustomerID}" Header="CustomerID" Width="100" IsReadOnly="True" />
+                    <DataGridTextColumn Binding="{Binding Path=ContactName}" Header="Name" Width="100" IsReadOnly="True" />
+                    <DataGridTextColumn Binding="{Binding Path=Address}" Header="Address" Width="150" IsReadOnly="True" />
+                    <DataGridTextColumn Binding="{Binding Path=City}" Header="City" Width="100" IsReadOnly="True" />
+                    <DataGridTextColumn Binding="{Binding Path=Phone}" Header="Phone" Width="120" IsReadOnly="True" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Content="Load Data" Height="25" HorizontalAlignment="Left" Margin="487,275,0,0" Name="btnloaddata" VerticalAlignment="Top" Width="100" Click="btnloaddata_Click"/>                  
+        </Grid>
+    </Grid>
+</Window>
